@@ -1,0 +1,5 @@
+pandas
+matplotlib
+joblib
+scikit-learn
+nltk
