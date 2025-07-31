@@ -1,4 +1,4 @@
-#Spam Detector Benchmark: Small vs Large Data
+# Spam Detector Benchmark: Small vs Large Data
 
 This repository contains a complete spam detection project using traditional machine learning methods. It explores how model performance changes when trained on small data versus large data. The project compares four models across multiple datasets and identifies the best model for real-world deployment.
 
